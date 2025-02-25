@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning this stuff about programming
 - 👯 I’m looking to collaborate on AI, Bitcoins or something like that
 - 🤔 I’m looking for help with test and learn about programs
-- 📫 How to reach me: you can contac me via email
+- 📫 How to reach me: you can contact me via email
 - 😄 Pronouns: He, Him.
 - ⚡ Fun fact: We are not alone
 -->
